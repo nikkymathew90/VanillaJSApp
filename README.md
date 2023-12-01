@@ -1,1 +1,1 @@
-# Single page application using Vanilla JS
+# Single page application using Vanilla JS. Test.
